@@ -12,12 +12,6 @@
     },
     {
       "path": "./tsconfig.spec.json"
-    },
-    {
-      "path": "./projects/ui-library/tsconfig.app.json"
-    },
-    {
-      "path": "./projects/ui-library/tsconfig.spec.json"
     }
 ]
 }
